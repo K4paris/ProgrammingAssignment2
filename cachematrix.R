@@ -52,9 +52,4 @@ cacheSolve <- function(x, ...) {
 
 
 
-Status
-API
-Training
-Shop
-Blog
-About
+
